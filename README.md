@@ -6,7 +6,7 @@ Also skilled in WordPress and UI/UX design using Figma.<br/>
 Learning about cloud computing, data science, and software engineering.<br/>    
 Building personal projects to apply my knowledge and grow.<br/>    
 
-    # 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Laravel and web projects<br/>    <br>🌱 I’m currently learning advanced backend development<br/>    <br>👯 I’m looking to collaborate on open-source projects<br/>    <br>🤔 I’m looking for help with optimizing performance<br/>    <br>💬 Ask me about Laravel, WordPress, or backend logic<br/>    <br>📫 How to reach me: limrenee2@gmail.com<br/>     <br>⚡ Fun fact: I enjoy experimenting with new tech stacks!<br/>
 
 
