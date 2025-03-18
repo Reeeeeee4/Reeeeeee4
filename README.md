@@ -5,7 +5,7 @@ Familiar with Python, C, PHP, CSS, HTML, SQL, Java, Kotlin, R.<br/>
 Also skilled in WordPress and UI/UX design using Figma.<br/>    
 Learning about cloud computing, data science, and software engineering.<br/>    
 Building personal projects to apply my knowledge and grow.<br/>
-Building personal projects to apply my knowledge and grow. Recently, I created [my first simple game](https://reee4.itch.io/first-game) using [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#).<br/>
+Building personal projects to apply my knowledge and grow. Recently, I created <a href="https://reee4.itch.io/first-game" target="_blank" rel="noopener noreferrer">my first simple game</a> using [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#).<br/>
 
 ## 💫 About Me:
 🔭 I’m currently working on Laravel and web projects<br/>    <br>🌱 I’m currently learning advanced backend development<br/>    <br>👯 I’m looking to collaborate on open-source projects<br/>    <br>🤔 I’m looking for help with optimizing performance<br/>    <br>💬 Ask me about Laravel, WordPress, or backend logic<br/>    <br>📫 How to reach me: limrenee2@gmail.com<br/>     <br>⚡ Fun fact: I enjoy experimenting with new tech stacks!<br/>
