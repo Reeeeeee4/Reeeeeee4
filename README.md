@@ -35,7 +35,7 @@ Building personal projects to apply my knowledge and grow. Recently, I created [
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Reeeeeee4&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
